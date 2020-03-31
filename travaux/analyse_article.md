@@ -2,7 +2,7 @@
 
 ## Préambule
 
-Ce travail, _individuel_, à pour but d'exercer votre esprit critique à la lecture de résultats scientifique. Il compte pour 20% de l'évaluation du cours, ce qui implique qu'un effort _non négligeable_ est attendu sur ce travail. Ne vous y prenez pas à la dernière minute, même si au final il n'y a que 3 pages a produire cela requiert ~18h de travail personnel pour analyser la matière présente dans l'article, en faire une synthèse et préparer votre critique. Vous avez la totalité de la sesison pour répartir cet effort, ne laissez pas passer cette chance.
+Ce travail, _individuel_, a pour but d'exercer votre esprit critique à la lecture de résultats scientifiques. Il compte pour 20% de l'évaluation du cours, ce qui implique qu'un effort _non négligeable_ est attendu sur ce travail. Ne vous y prenez pas à la dernière minute, même si finalement il n'y a que 3 pages à produire cela requiert ~18h de travail personnel pour analyser la matière présente dans l'article, en faire une synthèse et préparer votre critique. Vous avez la totalité de la sesison pour répartir cet effort, ne laissez pas passer cette chance.
 
 ## Objectifs
 
