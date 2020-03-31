@@ -26,7 +26,8 @@ Votre travail pour cette séquence est :
 
   1. d'ajouter au squelette d'application fourni les fonctionalités du produit minimal viable (MVP) identifié pendant la leçon introductive et rappellé ci-dessous;
   2. de compléter le gabarit fourni dans le fichier `evaluation.md` pour y décrire le protocole d'évaluation qu'il faudrait mettre en place pour évaluer le MVP avec de véritables sujets;
-  3. de compléter le gabarit fourni dans le fichier `suivi.md` pour y inclure votre backlog, le journal de votre dévelopement, des métriques de suivi d'équipe, ...
+  3. de compléter le gabarit fourni dans le fichier `suivi.md` pour y inclure votre backlog, le journal de votre développement, des métriques de suivi d'équipe, ...
+
 
 ### Quizz: Produit minimal viable
 
