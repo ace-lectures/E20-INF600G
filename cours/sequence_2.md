@@ -4,7 +4,7 @@
 ## Objectifs
 
   1. Découvrir le langage Kotlin pour développer une application mobile
-  2. Déployer un service consommés par l'application mobile
+  2. Déployer un service consommé par l'application mobile
   3. Mettre en place un protocole d'évaluation utilisateur
   4. Suivre et surveiller le déroulement de son projet
 
@@ -25,8 +25,8 @@ La seule fonctionalité présente dans l'application est la selection de l'utili
 Votre travail pour cette séquence est :
 
   1. d'ajouter au squelette d'application fourni les fonctionalités du produit minimal viable (MVP) identifié pendant la leçon introductive et rappellé ci-dessous;
-  2. de compléter le gabarit fourni dans le fichier `evaluation.md` pour y décrire le protocole d'évaluation qu'il faudrait mettre en place pour évaluer le MVP avec de véritable sujets;
-  3. de compléter le gabarit fourni dans le fichier `suivi.md` pour y inclure votre backlog, le journal de votre dévelopement, des métriques de suivi d'équipe, ...
+  2. de compléter le gabarit fourni dans le fichier `evaluation.md` pour y décrire le protocole d'évaluation qu'il faudrait mettre en place pour évaluer le MVP avec de véritables sujets;
+  3. de compléter le gabarit fourni dans le fichier `suivi.md` pour y inclure votre backlog, le journal de votre développement, des métriques de suivi d'équipe, ...
 
 ### Quizz: Produit minimal viable
 
@@ -40,7 +40,7 @@ Votre travail pour cette séquence est :
     - `git push --tags`
   3. Assurez vous de la présence de l'étiquette sur l'interface web de Github
 
-:rotating_light: **N'oubliez pas de pousser (`git push`) votre travail au fur et a mesure de votre avancée pour ne pas rater votre livraison**
+:rotating_light: **N'oubliez pas de pousser (`git push`) votre travail au fur et à mesure de votre avancée pour ne pas rater votre livraison**
 
 ### Grille d'évaluation pour `L2`
 
