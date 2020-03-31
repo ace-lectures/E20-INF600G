@@ -28,6 +28,7 @@ Votre travail pour cette séquence est :
   2. de compléter le gabarit fourni dans le fichier `evaluation.md` pour y décrire le protocole d'évaluation qu'il faudrait mettre en place pour évaluer le MVP avec de véritables sujets;
   3. de compléter le gabarit fourni dans le fichier `suivi.md` pour y inclure votre backlog, le journal de votre développement, des métriques de suivi d'équipe, ...
 
+
 ### Quizz: Produit minimal viable
 
 :x: TODO : décrire le MVP sur la base des travaux des étudiants pour `L1`
