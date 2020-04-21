@@ -4,13 +4,12 @@
 
   * Équipe Enseignante :
     * Professeur : Sébastien Mosser (UQAM, [Site web personnel](https://mosser.github.io), [Groupe de recherche ACE](https://ace-design.github.io))
-    * Travaux : Jean-Philippe Caissy, :x: ???
-    * Correction : :x: ???
+    * Travaux & Corrections : Jean-Philippe Caissy, Florian Deljarry
   * Horaire du groupe `020`, session d'été 2020:
-    * Mardi, 13h30 - 16h30, :x: _local à définir_
-    * Jeudi, 13h30 - 16h30,  :x: _local à définir_
+    * Mardi, 13h30 - 16h30
+    * Jeudi, 13h30 - 16h30
   * Communication : _politique zéro courriel_
-    * Slack : :x: TBD
+    * Mattermost départemental (sur invitation) : :x: 
 
 Préalables académique :
 
