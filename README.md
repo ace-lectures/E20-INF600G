@@ -46,8 +46,6 @@ Chaque séquence dure 4 semaines (sauf la première qui ne comporte pas de démo
     - Mardi : Démonstration devant le jury (évaluation et rétro-action)
     - Jeudi : Démonstration devant le jury (évaluation et rétro-action)
 
-:mask: **Dans le contexte de la crise sanitaire COVID-19 que traverse actuellement le pays, ou plus globalement si vous ne pouvez pas être présent physiquement à l'UQAM pour une consultation ou une démonstration, il est possible d'utiliser Zoom pour faire un suivi à distance.** :mask:
-
 Les créneaux sur rendez vous sont choisis par les équipes parmi une liste de créneaux disponibles les mardis et jeudis, selon la règle du premier arrivé, premier servi.
 
 En parallele du travail réalisé techniquement, une partie de l'évaluation individuelle repose sur l'analyse critique d'un article de recherche décrivant des travaux récents
