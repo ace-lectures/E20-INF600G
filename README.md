@@ -9,7 +9,7 @@
     * Mardi, 13h30 - 16h30
     * Jeudi, 13h30 - 16h30
   * Communication : _politique zéro courriel_
-    * Mattermost départemental (sur invitation) : :x: 
+    * Mattermost départemental (sur invitation) : :x:
 
 Préalables académique :
 
@@ -31,23 +31,6 @@ Le cours est organisé autour de quatre séquences pédagogique consécutives (e
   - :large_blue_circle: _Détection de contexte & Intelligence Artificielle_ (Semaines 8 à 11, en équipe)
   - :o: _Approfondissement d'une thématique au choix de l'équipe_ (Semaines 12 à 15, en équipe)
 
-Chaque séquence dure 4 semaines (sauf la première qui ne comporte pas de démonstration) :
-
-  - Semaine 1 :
-    - Mardi : Présentation de la problématique
-    - Jeudi : Travail (aide technique des démonstrateurs, rétro-action)
-  - Semaine 2 :
-    - Mardi : Travail (aide technique des démonstrateurs, rétro-action)
-    - Jeudi : Travail (aide technique des démonstrateurs, rétro-action)
-  - Semaine 3 : (sur rendez-vous)
-    - Mardi : Consultation avec le professeur (rétro-action)
-    - Jeudi : Consultation avec le professeur (rétro-action)
-  - Semaine 4 : (sur rendez-vous)
-    - Mardi : Démonstration devant le jury (évaluation et rétro-action)
-    - Jeudi : Démonstration devant le jury (évaluation et rétro-action)
-
-Les créneaux sur rendez vous sont choisis par les équipes parmi une liste de créneaux disponibles les mardis et jeudis, selon la règle du premier arrivé, premier servi.
-
 En parallele du travail réalisé techniquement, une partie de l'évaluation individuelle repose sur l'analyse critique d'un article de recherche décrivant des travaux récents
 
 ### Évaluation & Planning de rendus
@@ -58,39 +41,39 @@ En parallele du travail réalisé techniquement, une partie de l'évaluation ind
 
 | Id    | Date(s) | Travail à rendre                  |  Poids | Type       | Lien |
 | :---: | :---:   | :---                              | :---:  | :---:      | :--: |
-| `L1`  | S03     | Récits Utilisateurs & Maquette    | 15%    | Individuel | :x:  |
-| `EQ`  | S03     | Constitution des équipes          | --     | Groupe     | [url](./travaux/decl_equipe.md)  |
-| `L2`  | S07     | Produit minimal et viable         | 15%    | Groupe     | :x:  |
-| `L3`  | S11     | Collecte de métadonnées pour l'IA | 20%    | Groupe     | :x:  |
-| `AR`  | S11     | Analyse critique d'article        | 20%    | Individuel | [url](./travaux/analyse_article.md)  |
-| `L4`  | S15     | Produit final                     | 30%    | Groupe     | :x:  |
+| `L1`  | 24/05   | Récits Utilisateurs & Maquette    | 15%    | Individuel | :x:  |
+| `EQ`  | 24/05   | Constitution des équipes          | --     | Groupe     | [url](./travaux/decl_equipe.md)  |
+| `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | :x:  |
+| `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | :x:  |
+| `AR`  | 19/07   | Analyse critique d'article        | 20%    | Individuel | [url](./travaux/analyse_article.md)  |
+| `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | :x:  |
 
   - Le travail individuel correspond à 35% de la note finale
     - en cas de doute sur la paternité du travail livré par un étudiant, le professeur pourra organiser un entretien oral durant la semaine 13.
   - Le travail d'équipe correspond à 65% de la note finale.
     - Au sein d'une équipe, les notes peuvent être différenciées en fonction de l'investissement de chacun.
 
-Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de travail personnel. Le cours INF600G est un cours de 3 crédits et ne comporte pas d'examen, la totalité du temps de travail (soit **90 heures**) est ainsi dédiée au projet et à ses differents livrables.
+Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de travail personnel en addition du temps à l'horaire. Le cours INF600G est un cours de 3 crédits et ne comporte pas d'examen, la totalité du temps de travail est ainsi dédiée au projet et à ses differents livrables.
 
 ## Agenda des séances
 
 | Séquence       | #Semaine | Mardi                                 | Jeudi           | Échéance   |
 | :---:          | :---:    | :---                                  | :---            |  :---:     |
-| :white_circle: | 01       | [**Génie Logiciel centré utilisateur**](./cours/sequence_1.md)       | _Travail_ | |
-| :white_circle: | 02       | _Travail_                             |  _Travail_      |            |
-| :white_circle: | :zap: **03** :zap:       | Consultations         |  Consultations  | `L1`, `EQ` |
-| :red_circle:   | 04       | [**Développement Mobile**](./cours/sequence_2.md)       | _Travail_  | |
-| :red_circle:   | 05       | _Travail_                             |  _Travail_      |            |
-| :red_circle:   | 06       | Consultations                         |  Consultations  |            |
-| :red_circle:   | :zap: **07** :zap:   | Démonstrations            |  Démonstrations | `L2`       |
-| :large_blue_circle: | 08  | [**Détection de contexte & IA**](./cours/sequence_3.md) | _Travail_  | |
-| :large_blue_circle: | 09  |  _Travail_                            |  _Travail_      |            |
-| :large_blue_circle: | 10  | Consultations                         |  Consultations  |            |
-| :large_blue_circle: | :zap: **11** :zap:  | Démonstrations        |  Démonstrations | `L3`, `AR` |
-| :o:            | 12       | [**Approfondissement**](./cours/sequence_4.md)          | _Travail_  | |
-| :o:            | 13       | _Travail_                             |  _Travail_      |            |
-| :o:            | 14       | Consultations                         |  Consultations  |            |
-| :o:            | :zap: **15** :zap:  |  Démonstrations            |  Démonstrations | `L4`       |
+| :white_circle: | 01       | [**Génie Logiciel centré utilisateur**](./cours/sequence_1.md)       | Q&A | |
+| :white_circle: | 02       | _Suivi_                             | _Suivi_        |            |
+| :white_circle: | :zap: **03** :zap: | _Suivi_                   | _Suivi_        | `L1`, `EQ` |
+| :red_circle:   | 04       | **Développement Mobile**            | _Suivi_        |            |
+| :red_circle:   | 05       | _Suivi_                             | _Suivi_        |            |
+| :red_circle:   | 06       | _Suivi_                             | _Suivi_        |            |
+| :red_circle:   | :zap: **07** :zap:   | Démonstrations          | Démonstrations | `L2`       |
+| :large_blue_circle: | 08  | **Détection de contexte & IA**      | _Suivi_        | |
+| :large_blue_circle: | 09  |  _Suivi_                            | _Suivi_        |            |
+| :large_blue_circle: | 10  | _Suivi_                             | _Suivi_        |            |
+| :large_blue_circle: | :zap: **11** :zap:  | Démonstrations      | Démonstrations | `L3`, `AR` |
+| :o:            | 12       | **Approfondissement**               | _Suivi_        | |
+| :o:            | 13       | _Suivi_                             | _Suivi_        |            |
+| :o:            | 14       | _Suivi_                             | _Suivi_        |            |
+| :o:            | :zap: **15** :zap:  |  Démonstrations          | Démonstrations | `L4`       |
 
 ## Barème
 
@@ -131,16 +114,25 @@ Pour suivre ce cours, vous devez avoir sur votre ordinateur personnel :
 
 ### Usage du Numérique au Québec
 
-  * _La mobilité numérique au Québec, 10 années de croissance_
-    * CEFRIO, NETendances 2018 (volume 9, numéro 7)
-    * [Document PDF](./docs/2018_mobilite.pdf)
+  * _Solutions pour vieillir en bonne santé_
+    * Rapport annuel 2019, AGE WELL
+    * [Document PDF](./docs/2019_AGE_WELL.pdf)
   * _Les aînés connectés au Québec_
     * CEFRIO, NETendaces 2019 (volume 10, numéro 1)
     * [Document PDF](./docs/2019_seniors.pdf)
+  * _La mobilité numérique au Québec, 10 années de croissance_
+    * CEFRIO, NETendances 2018 (volume 9, numéro 7)
+    * [Document PDF](./docs/2018_mobilite.pdf)
+
+### Rapports ministeriels
+
+  * _Les aînés au Québec, quelques chiffres_
+    * Rapport annuel 2018, Ministère de la famille
+    * [Document PDF](./docs/2018_aines_quebec.pdf)
 
 ### Collaboration Franco-Québécoise Samuel de Champlain
 
-Ce cours existe grâce au soutien conjoint du FRQNT (18,300$) et du MAE (12,750€) pour les années 2020-2021, qui finance des échanges (professeurs et étudiants stagiaires) réguliers entre les équipes pédagogique québécoise et française pour permettre la reflexion nécessaire à la mise en oeuvre d'un tel projet, ainsi que sa réalisation technique.
+Ce cours existe grâce au soutien conjoint du _Fond de Recherche Québécois Nature et Technologie_ (FRQNT - 18,300$) et du _Ministère des Affaires Étrangères Français_ (MAE - 12,750€) pour les années 2020-2021, qui finance des échanges (professeurs et étudiants stagiaires) réguliers entre les équipes pédagogique québécoise et française pour permettre la reflexion nécessaire à la mise en oeuvre d'un tel projet, ainsi que sa réalisation technique.
 
   * [Description du consortium](./docs/2019_champlain_consortium.pdf)
   * [Description du projet de collaboration UQAM-UCA](./docs/2019_champlain_projet.pdf)
