@@ -27,13 +27,22 @@
 
 Les récits utilisateurs font référence aux [personas définis ici](./personas.md).
 
-| Identifiant | En tant que | Je veux | Afin de | Fonctionalité |
-| :---:       |  :--        | :--     | :--     | :--:          |
 
-## Démonstration (Produit Minimal mais non viable)
+| Id. | ETQ | JV | AD | Fonc. | #Affaire | # Technique |
+| :---:       |  :--        | :--     | :--     | :--:          | :--: | :--: |
+| `1` | Fred  | accéder simplement à mes quizs  | choisir lequel je vais lancer  | `F1`  | | | 
+| `2` | Fred  | obtenir l'assistance d'un•e aidant•e  |  changer mes centres d'interêts  | `F2`  | | |
+| `3` | Fred  | avoir accès aux quizs correspondant à mes centres d'interêts | jouer avec des thèmes qui me plaisent  | `F2`  | | |
+| `4`  | Fred  | avoir accès à mes quizs personels  | d'exercer ma mémoire  |   |   |   |
+|   |   |   |   |   |
 
 
+## Itérations
 
-## Produit Minimal Viable
+### Démonstration (Produit ni minimal, ni viable)
+
+**Intention** : L'intention de cette itération est de démontrer ce qu'il ne faut pas faire, c.à.d.
+
+### Produit Minimal Viable
 
 _..._
