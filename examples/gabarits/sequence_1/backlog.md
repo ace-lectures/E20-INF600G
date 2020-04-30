@@ -30,10 +30,10 @@ Les récits utilisateurs font référence aux [personas définis ici](./personas
 
 | Id. | ETQ | JV | AD | Fonc. | #Affaire | # Technique |
 | :---:       |  :--        | :--     | :--     | :--:          | :--: | :--: |
-| `1` | Fred  | accéder simplement à mes quizs  | choisir lequel je vais lancer  | `F1`  | | | 
+| `1` | Fred  | accéder simplement à mes quizs  | choisir lequel je vais lancer  | `F1`  | | |
 | `2` | Fred  | obtenir l'assistance d'un•e aidant•e  |  changer mes centres d'interêts  | `F2`  | | |
 | `3` | Fred  | avoir accès aux quizs correspondant à mes centres d'interêts | jouer avec des thèmes qui me plaisent  | `F2`  | | |
-| `4`  | Fred  | avoir accès à mes quizs personels  | d'exercer ma mémoire  |   |   |   |
+| `4`  | Fred  | avoir accès à mes quizs personels  | d'exercer ma mémoire  |   | `5`  | Fred  |
 |   |   |   |   |   |
 
 
