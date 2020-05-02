@@ -68,14 +68,16 @@ En plus de la description du sujet, vous êtes invités à lire les études du C
 
   1. Acceptez le travail _individuel_ sur Github classroom (compte github requis)
   2. Une fois le travail accepté, vous trouvez 3 fichiers à la racine de votre dépôt git :
-    - `personas.md` : pour la description de vos personas
-    - `backlog.md` : pour la description de votre _backlog_ (vos récits utilisateurs et votre produit minimal viable)
-    - `journal.md` : séance par séance, ce que vous avez fait durant le déroulement du projet
-  3.Vous déposerez à la racine de votre dépot un fichier `maquette.pdf` contenant l'exportation PDF de votre maquette fil-de-fer.
+    - [`personas.md`](../examples/gabarits/sequence_1/personas.md) : pour la description de vos personas
+    - [`backlog.md`](../examples/gabarits/sequence_1/backlog.md) : pour la description de votre _backlog_ (vos récits utilisateurs et votre produit minimal viable)
+    - [`journal.md`](../examples/gabarits/sequence_1/journal.md) : votre journal de bord pour la séquence.
+  3. Vous déposerez à la racine de votre dépot un fichier `maquette.pdf` contenant l'exportation PDF de votre maquette fil-de-fer.
 
 Le contenu de votre dépôt sera automatiquement récupéré à la date de livraison par un script.
 
-:rotating_light: **N'oubliez pas de pousser (`git push`) votre travail au fur et à mesure de votre avancée pour ne pas rater votre livraison**
+:rotating_light: **N'oubliez pas commiter (`git commit`) mais surtout de pousser (`git push`) votre travail au fur et à mesure de votre avancée pour ne pas rater votre livraison**
+
+Pour vérifier ce qui est visible par votre correcteur, il vous suffit de visiter la version web de votre dépôt. Nous corrigerons uniquement ce qui sera livré sur la branche `master`.
 
 ### Grille d'évaluation pour `L1`
 
