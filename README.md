@@ -41,12 +41,12 @@ En parallele du travail réalisé techniquement, une partie de l'évaluation ind
 
 | Id    | Date(s) | Travail à rendre                  |  Poids | Type       | Lien |
 | :---: | :---:   | :---                              | :---:  | :---:      | :--: |
-| `L1`  | 24/05   | Récits Utilisateurs & Maquette    | 15%    | Individuel | :x:  |
+| `L1`  | 24/05   | Récits Utilisateurs & Maquette    | 15%    | Individuel | [url](./cours/sequence_1.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l1)  |
 | `EQ`  | 24/05   | Constitution des équipes          | --     | Groupe     | [url](./travaux/decl_equipe.md)  |
-| `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | :x:  |
-| `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | :x:  |
+| `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | :lock:  |
+| `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | :lock:  |
 | `AR`  | 19/07   | Analyse critique d'article        | 20%    | Individuel | [url](./travaux/analyse_article.md)  |
-| `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | :x:  |
+| `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | :lock:  |
 
   - Le travail individuel correspond à 35% de la note finale
     - en cas de doute sur la paternité du travail livré par un étudiant, le professeur pourra organiser un entretien oral durant la semaine 13.
@@ -62,15 +62,15 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 | :white_circle: | 01       | [**Génie Logiciel centré utilisateur**](./cours/sequence_1.md)       | Q&A | |
 | :white_circle: | 02       | _Suivi_                             | _Suivi_        |            |
 | :white_circle: | :zap: **03** :zap: | _Suivi_                   | _Suivi_        | `L1`, `EQ` |
-| :red_circle:   | 04       | **Développement Mobile**            | _Suivi_        |            |
+| :red_circle:   | 04       | :lock: **Développement Mobile**           | _Suivi_        |            |
 | :red_circle:   | 05       | _Suivi_                             | _Suivi_        |            |
 | :red_circle:   | 06       | _Suivi_                             | _Suivi_        |            |
 | :red_circle:   | :zap: **07** :zap:   | Démonstrations          | Démonstrations | `L2`       |
-| :large_blue_circle: | 08  | **Détection de contexte & IA**      | _Suivi_        | |
+| :large_blue_circle: | 08  | :lock: **Détection de contexte & IA**      | _Suivi_        | |
 | :large_blue_circle: | 09  |  _Suivi_                            | _Suivi_        |            |
 | :large_blue_circle: | 10  | _Suivi_                             | _Suivi_        |            |
 | :large_blue_circle: | :zap: **11** :zap:  | Démonstrations      | Démonstrations | `L3`, `AR` |
-| :o:            | 12       | **Approfondissement**               | _Suivi_        | |
+| :o:            | 12       | :lock: **Approfondissement**               | _Suivi_        | |
 | :o:            | 13       | _Suivi_                             | _Suivi_        |            |
 | :o:            | 14       | _Suivi_                             | _Suivi_        |            |
 | :o:            | :zap: **15** :zap:  |  Démonstrations          | Démonstrations | `L4`       |

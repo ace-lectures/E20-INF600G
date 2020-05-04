@@ -1,5 +1,8 @@
 # Séquence 4 : Approfondissement
 
+:x: :x: :x: :x: **Cette sequence est encore un brouillon et ne correspond pas au travail qui sera demandé dans le cadre du cours INF600G donné à la session d'été 2020** :x: :x: :x: :x:
+
+
 ## Objectifs
 
   1. Approfondir un sujet autour de la conception de logiciel adaptés
