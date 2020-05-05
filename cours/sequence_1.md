@@ -34,29 +34,54 @@ Pour vous inscrire aux rendez vous de suivi (vous devez participer à un rendez 
 	<th>Diapositives</th><th>Vidéo</th>
 </tr>
 <tr>
-	<td> [Logistique du cours](./seq1/Seq1_Part0.pdf) </td>
+	<td> 
+	
+[Logistique du cours](./seq1/Seq1_Part0.pdf)
+
+</td>
 	<td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vgkhuzvT8ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</td
 </tr>
 
 <tr>
-	<td>[Génie Logiciel centré utilisateur](./seq1/Seq1_Part1.pdf) </td>
+	<td>
+	
+[Génie Logiciel centré utilisateur](./seq1/Seq1_Part1.pdf)
+
+</td>
 	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/BAbzI7pgWWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
-	<td>[Population vieillissante](./seq1/Seq1_Part2.pdf)</td>
+	<td>
+	
+[Population vieillissante](./seq1/Seq1_Part2.pdf)
+
+</td>
 	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/Ib7g43zQu34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
+
 <tr>
-	<td>[Récits Utilisateurs](./seq1/Seq1_Part3.pdf)</td>
+<td>
+
+[Récits Utilisateurs](./seq1/Seq1_Part3.pdf)
+	
+</td>
 	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/UZ2sJuUMwv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
-	<td>[Maquettage](./seq1/Seq1_Part4.pdf)</td>
+	<td>
+
+[Maquettage](./seq1/Seq1_Part4.pdf)
+
+</td>
 	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/OmJGluDV3rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
-	<td>[Travail à faire pour `L1`](./seq1/Seq1_Part5.pdf)</td>
+	<td>
+
+[Travail à faire pour `L1`](./seq1/Seq1_Part5.pdf)
+
+</td>
 	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/V2-kqa2MiGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <table>
