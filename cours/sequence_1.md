@@ -40,7 +40,10 @@ Pour vous inscrire aux rendez vous de suivi (vous devez participer à un rendez 
 
 </td>
 	<td>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vgkhuzvT8ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</td
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vgkhuzvT8ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+
+</td>
 </tr>
 
 <tr>
