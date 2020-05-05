@@ -29,65 +29,16 @@ Pour vous inscrire aux rendez vous de suivi (vous devez participer à un rendez 
 
 ## Leçon introductive
 
-<table>
-<tr>
-	<th>Diapositives</th><th>Vidéo</th>
-</tr>
-<tr>
-	<td> 
-	
-[Logistique du cours](./seq1/Seq1_Part0.pdf)
+- Diapositives:
+   - [Logistique du cours](./seq1/Seq1_Part0.pdf)
+   - [Génie Logiciel centré utilisateur](./seq1/Seq1_Part1.pdf)
+   - [Population vieillissante](./seq1/Seq1_Part2.pdf)
+   - [Récits Utilisateurs](./seq1/Seq1_Part3.pdf)
+   - [Maquettage](./seq1/Seq1_Part4.pdf)
+   - [Travail à faire pour `L1`](./seq1/Seq1_Part5.pdf)
+- Vidéos :
+   - [Playlist INF600G - E20 - S1](https://www.youtube.com/playlist?list=PLpni-AW3kOU7n-5lSj_uGa351Qdfc4A3u)  
 
-</td>
-	<td>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vgkhuzvT8ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
-
-</td>
-</tr>
-
-<tr>
-	<td>
-	
-[Génie Logiciel centré utilisateur](./seq1/Seq1_Part1.pdf)
-
-</td>
-	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/BAbzI7pgWWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-<tr>
-	<td>
-	
-[Population vieillissante](./seq1/Seq1_Part2.pdf)
-
-</td>
-	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/Ib7g43zQu34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>
-
-[Récits Utilisateurs](./seq1/Seq1_Part3.pdf)
-	
-</td>
-	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/UZ2sJuUMwv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-<tr>
-	<td>
-
-[Maquettage](./seq1/Seq1_Part4.pdf)
-
-</td>
-	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/OmJGluDV3rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-<tr>
-	<td>
-
-[Travail à faire pour `L1`](./seq1/Seq1_Part5.pdf)
-
-</td>
-	<td><iframe width="560" height="315" src="https://www.youtube.com/embed/V2-kqa2MiGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-<table>
 
 ## Travail à réaliser pour la séquence (`L1`)
 
