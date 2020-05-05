@@ -29,7 +29,16 @@ Pour vous inscrire aux rendez vous de suivi (vous devez participer à un rendez 
 
 ## Leçon introductive
 
-:x: **TODO** ajouter intégration _slideshare_ des diapos (ou lien PDF) de la leçon introductive pour la séquence. :x:
+**Vidéos à venir**
+
+**Diapositives** : 
+
+1. [Logistique du cours](./seq1/Seq1_Part0.pdf)
+2. [Génie Logiciel centré utilisateur](./seq1/Seq1_Part1.pdf)
+3. [Population vieillissante](./seq1/Seq1_Part2.pdf)
+4. [Récits Utilisateurs](./seq1/Seq1_Part3.pdf)
+5. [Maquettage](./seq1/Seq1_Part4.pdf)
+6. [Travail à faire pour `L1`](./seq1/Seq1_Part5.pdf)
 
 ## Travail à réaliser pour la séquence (`L1`)
 
