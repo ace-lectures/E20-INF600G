@@ -75,12 +75,12 @@ En plus de la description du sujet, vous êtes invités à lire les études du C
 
 ### Livraison du travail (Github classroom)
 
-  1. Acceptez le travail _individuel_ sur Github classroom (compte github requis)
-  2. Une fois le travail accepté, vous trouvez 3 fichiers à la racine de votre dépôt git :
-    - [`personas.md`](../examples/gabarits/sequence_1/personas.md) : pour la description de vos personas
-    - [`backlog.md`](../examples/gabarits/sequence_1/backlog.md) : pour la description de votre _backlog_ (vos récits utilisateurs et votre produit minimal viable)
-    - [`journal.md`](../examples/gabarits/sequence_1/journal.md) : votre journal de bord pour la séquence.
-  3. Vous déposerez à la racine de votre dépot un fichier `maquette.pdf` contenant l'exportation PDF de votre maquette fil-de-fer.
+1. Acceptez le [travail _individuel_](https://classroom.github.com/a/495ka2yV) sur Github classroom (compte github requis)
+2. Une fois le travail accepté, vous trouvez 3 fichiers à la racine de votre dépôt git :
+   * [`personas.md`](../examples/gabarits/sequence_1/personas.md) : pour la description de vos personas
+   * [`backlog.md`](../examples/gabarits/sequence_1/backlog.md) : pour la description de votre _backlog_ (vos récits utilisateurs et votre produit minimal viable)
+   * [`journal.md`](../examples/gabarits/sequence_1/journal.md) : votre journal de bord pour la séquence.
+3. Vous déposerez à la racine de votre dépot un fichier `maquette.pdf` contenant l'exportation PDF de votre maquette fil-de-fer.
 
 Le contenu de votre dépôt sera automatiquement récupéré à la date de livraison par un script.
 
