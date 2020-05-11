@@ -2,7 +2,7 @@
 
 Vous devez former des équipes de 4 étudiant.e.s. La liste des étudiants inscrits au cours est mise à jour au fur et à mesure de la constitution des équipe. Si vous n'arrivez pas a rejoindre une équipe, je lancerais des dés pour que le hasard le fasse à votre place.
 
-La classe contenant `xx` étudiants, il y aura `yy` équipes, dont `ZZ` équipes de trois étudiants. Les équipes de trois étudiants seront acceptée selon le principe des _premiers arrivés, premiers servis_.
+La classe contenant `41` étudiants, il y aura `11` équipes, dont `3` équipes de trois étudiants. Les équipes de trois étudiants seront acceptée selon le principe des _premiers arrivés, premiers servis_.
 
 :rotating_light: Ne proposez pas une équipe de trois étudiants si l'un d'entre vous pense à abandonner le cours.
 
