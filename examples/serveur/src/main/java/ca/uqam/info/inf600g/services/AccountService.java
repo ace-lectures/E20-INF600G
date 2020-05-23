@@ -15,18 +15,15 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 @Path("/accounts")
-@Tag(name="Backend")
+@Tag(name="Account Management")
 @Produces(MediaType.APPLICATION_JSON)
 public class AccountService {
 
     @GET
     @ApiResponse(
             responseCode = "200",
-            content = @Content(
-                    mediaType = "application/json",
-                    array = @ArraySchema(
-                            schema = @Schema(implementation = AccountDescription.class)
-                    )),
+            content = @Content(mediaType = "application/json",
+                    array = @ArraySchema(schema = @Schema(implementation = AccountDescription.class))),
             description = "List of all available accounts")
     public Set<AccountDescription> getAllAccounts() {
         return AccountsCollection.getAccess()

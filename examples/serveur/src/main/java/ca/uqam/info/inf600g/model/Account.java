@@ -10,6 +10,8 @@ public class Account {
     private String password;
     private URL avatar;
 
+    public Account() { } // required for marshalling purpose
+
     public Account(String identifier, String name, String password, URL avatar) {
         this.identifier = identifier;
         this.name = name;
