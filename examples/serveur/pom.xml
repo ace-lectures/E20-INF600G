@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <!-- Source: https://medium.com/shark-bytes/co-hosting-swagger-ui-with-your-jersey-rest-api-using-maven-dependencies-44d88ae85bf8-->
+  <!-- Source: https://medium.com/shark-bytes/co-hosting-swagger-ui-with-your-jersey-rest-api-using-maven-dependencies-44d88ae85bf8 -->
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.ace-lectures.inf600g</groupId>
@@ -13,6 +13,7 @@
   <properties>
     <java.version>1.8</java.version>
     <!-- DO NOT EDIT AFTER THIS LINE -->
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <mvn-compiler-plugin.version>3.7.0</mvn-compiler-plugin.version>
     <maven-dependency-plugin.version>3.1.1</maven-dependency-plugin.version>
     <maven-war-plugin.version>3.2.2</maven-war-plugin.version>
@@ -100,6 +101,18 @@
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
         <version>${jetty.version}</version>
+        <configuration>
+          <contextHandlers>
+            <contextHandler implementation="org.eclipse.jetty.server.handler.ContextHandler">
+              <contextPath>/static</contextPath>
+              <resourceBase>./static</resourceBase>
+              <handler implementation="org.eclipse.jetty.server.handler.ResourceHandler" />
+            </contextHandler>
+          </contextHandlers>
+          <stopPort>9966</stopPort>
+          <stopKey>foo</stopKey>
+          <stopWait>10</stopWait>
+        </configuration>
       </plugin>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
