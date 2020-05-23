@@ -66,7 +66,7 @@ Une autre problématique liée à l'âge est l'apparition de troubles qui sont m
 
   1. caractériser les personnas évoluant dans ce domaine;
   2. identifier les récits utilisateurs (_user stories_);
-  3. les estimer (sur deux axes : valeur métier et risque technique);
+  3. les estimer (sur une echelle de valeur pour l'utilisateur);
   4. Proposer un ensemble de récits qui constituerait le contenu d'un produit minimal et viable;
   5. Définir une maquette "fil-de-fer" de votre produit minimal et viable.
 
