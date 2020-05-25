@@ -4,12 +4,12 @@
 
   * Équipe Enseignante :
     * Professeur : Sébastien Mosser (UQAM, [Site web personnel](https://mosser.github.io), [Groupe de recherche ACE](https://ace-design.github.io))
-    * Travaux & Corrections : Jean-Philippe Caissy, Florian Deljarry
+    * Suivi des Travaux : Jean-Philippe Caissy, Florian Deljarry
   * Horaire du groupe `020`, session d'été 2020:
     * Mardi, 13h30 - 16h30
     * Jeudi, 13h30 - 16h30
   * Communication : _politique zéro courriel_
-    * Mattermost départemental (sur invitation) : :x:
+    * Mattermost départemental : sur invitation
 
 Préalables académique :
 
@@ -43,7 +43,7 @@ En parallele du travail réalisé techniquement, une partie de l'évaluation ind
 | :---: | :---:   | :---                              | :---:  | :---:      | :--: |
 | `L1`  | 24/05   | Récits Utilisateurs & Maquette    | 15%    | Individuel | [url](./cours/sequence_1.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l1)  |
 | `EQ`  | 24/05   | Constitution des équipes          | --     | Groupe     | [url](./travaux/decl_equipe.md)  |
-| `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | :lock:  |
+| `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | [url](./cours/sequence_2.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l2)  |
 | `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | :lock:  |
 | `AR`  | 19/07   | Analyse critique d'article        | 20%    | Individuel | [url](./travaux/analyse_article.md)  |
 | `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | :lock:  |
@@ -62,7 +62,7 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 | :white_circle: | 01       | [**Génie Logiciel centré utilisateur**](./cours/sequence_1.md)       | Q&A | |
 | :white_circle: | 02       | _Suivi_                             | _Suivi_        |            |
 | :white_circle: | :zap: **03** :zap: | _Suivi_                   | _Suivi_        | `L1`, `EQ` |
-| :red_circle:   | 04       | :lock: **Développement Mobile**           | _Suivi_        |            |
+| :red_circle:   | 04       | [**Développement Mobile**](./cours/sequence_2.md)           | _Suivi_        |            |
 | :red_circle:   | 05       | _Suivi_                             | _Suivi_        |            |
 | :red_circle:   | 06       | _Suivi_                             | _Suivi_        |            |
 | :red_circle:   | :zap: **07** :zap:   | Démonstrations          | Démonstrations | `L2`       |
@@ -134,5 +134,7 @@ Pour suivre ce cours, vous devez avoir sur votre ordinateur personnel :
 
 Ce cours existe grâce au soutien conjoint du _Fond de Recherche Québécois Nature et Technologie_ (FRQNT - 18,300$) et du _Ministère des Affaires Étrangères Français_ (MAE - 12,750€) pour les années 2020-2021, qui finance des échanges (professeurs et étudiants stagiaires) réguliers entre les équipes pédagogique québécoise et française pour permettre la reflexion nécessaire à la mise en oeuvre d'un tel projet, ainsi que sa réalisation technique.
 
+  * [Site internet du projet](https://ace-design.github.io/champlain/) (en construction)
   * [Description du consortium](./docs/2019_champlain_consortium.pdf)
   * [Description du projet de collaboration UQAM-UCA](./docs/2019_champlain_projet.pdf)
+  
