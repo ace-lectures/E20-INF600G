@@ -57,21 +57,21 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 
 ## Agenda des séances
 
-| Séquence       | #Semaine | Mardi                                 | Jeudi           | Échéance   |
-| :---:          | :---:    | :---                                  | :---            |  :---:     |
+| Séquence       | #Semaine | Mardi                                 | Jeudi     | Échéance   |
+| :---:          | :---:    | :---                                  | :---      |  :---:     |
 | :white_circle: | 01       | [**Génie Logiciel centré utilisateur**](./cours/sequence_1.md)       | Q&A | |
-| :white_circle: | 02       | _Suivi_                             | _Suivi_        |            |
-| :white_circle: | :zap: **03** :zap: | _Suivi_                   | _Suivi_        | `L1`, `EQ` |
-| :red_circle:   | 04       | [**Développement Mobile**](./cours/sequence_2.md)           | _Suivi_        |            |
-| :red_circle:   | 05       | _Suivi_                             | _Suivi_        |            |
-| :red_circle:   | 06       | _Suivi_                             | _Suivi_        |            |
+| :white_circle: | 02       | _Suivi_                             | _Suivi_     |            |
+| :white_circle: | :zap: **03** :zap: | _Suivi_                   | _Suivi_     | `L1`, `EQ` |
+| :red_circle:   | 04       | [**Développement Mobile**](./cours/sequence_2.md) |     |    |
+| :red_circle:   | 05       | _Suivi_                             |           |            |
+| :red_circle:   | 06       | _Suivi_                             | _Suivi_     |            |
 | :red_circle:   | :zap: **07** :zap:   | Démonstrations          | Démonstrations | `L2`       |
-| :large_blue_circle: | 08  | :lock: **Détection de contexte & IA**      | _Suivi_        | |
-| :large_blue_circle: | 09  |  _Suivi_                            | _Suivi_        |            |
+| :large_blue_circle: | 08  | :lock: **Détection de contexte & IA**             | |
+| :large_blue_circle: | 09  |  _Suivi_                            |         |            |
 | :large_blue_circle: | 10  | _Suivi_                             | _Suivi_        |            |
 | :large_blue_circle: | :zap: **11** :zap:  | Démonstrations      | Démonstrations | `L3`, `AR` |
-| :o:            | 12       | :lock: **Approfondissement**               | _Suivi_        | |
-| :o:            | 13       | _Suivi_                             | _Suivi_        |            |
+| :o:            | 12       | :lock: **Approfondissement**               |         | |
+| :o:            | 13       | _Suivi_                             |         |            |
 | :o:            | 14       | _Suivi_                             | _Suivi_        |            |
 | :o:            | :zap: **15** :zap:  |  Démonstrations          | Démonstrations | `L4`       |
 
@@ -137,4 +137,3 @@ Ce cours existe grâce au soutien conjoint du _Fond de Recherche Québécois Nat
   * [Site internet du projet](https://ace-design.github.io/champlain/) (en construction)
   * [Description du consortium](./docs/2019_champlain_consortium.pdf)
   * [Description du projet de collaboration UQAM-UCA](./docs/2019_champlain_projet.pdf)
-  
