@@ -1,11 +1,10 @@
-# Séquence 2 : Produit Miinimal & Viable (MVP)
-
+# Séquence 2 : Application Mobile Minimale & Viable (MVP)
 
 ## Objectifs
 
   1. Découvrir le langage Kotlin pour développer une application mobile
   2. Déployer un service consommé par l'application mobile
-  4. Suivre et surveiller le déroulement de son projet
+  4. Suivre le déroulement de son projet en exploitant les récits utilisateurs
 
 ## Leçon introductive
 
@@ -27,11 +26,11 @@
 
 - Documentation [Eclipse Jersey](https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/index.html)
 - [Android Kotlin fundamental course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
-  - Regardez principalement les tutoriels 1, 2, 3, 5, 7 et 8.
+    - Principalement les tutoriels 1, 2, 3, 5, 7 et 8.
 - Cours Android à Université Côte d'Azur (2017)
-  - [Introduction à Android](./seq2/uca_android_1.pdf)
-  - [Layout](./seq2/uca_android_2.pdf)
-  - [Material design et appel à des services](./seq2/uca_android_3.pdf)
+    - [Introduction à Android](./seq2/uca_android_1.pdf)
+    - [Layout](./seq2/uca_android_2.pdf)
+    - [Material design et appel à des services](./seq2/uca_android_3.pdf)
 - Bibliothèque Android [OkHttp](https://github.com/square/okhttp)
 - Guide utilisateur [Gson](https://github.com/google/gson/blob/master/UserGuide.md)
 
@@ -53,27 +52,27 @@ Si vous êtes à l'aise avec la technologie Android, vous pouvez enrichir ce pro
 ### Contraintes non-fonctionelles
 
 1. Pour la partie arrière (serveur)
-  - Les données sont stockée uniquement en mémoire (pas de base de données);
-  - Il existe une séparation claire entre les trois couches de l'application (exposition en service, logique d'affaire, stockage des données);
-  - pour lancer le serveur : `mvn clean package jetty:run-war`.
+    - Les données sont stockée uniquement en mémoire (pas de base de données);
+    - Il existe une séparation claire entre les trois couches de l'application (exposition en service, logique d'affaire, stockage des données);
+    - pour lancer le serveur : `mvn clean package jetty:run-war`.
 2. Pour l'application mobile (client)
-  - Les données sont obtenues et enregistrées dans la partie arrière uniquement;
-  - L'application est lançable depuis Android studio sur un émulateur de tablette
+    - Les données sont obtenues et enregistrées dans la partie arrière uniquement;
+    - L'application est lançable depuis Android studio sur un émulateur de tablette
 3. Pour le développement du projet:
-  - Vous travaillez récit par récit (et non pas couche pas couche);
-  - Chaque _commit_ doit référencer le récit utilisateur auquel il contribue;
-  - Vous tenez à jour le suivi du projet (`suivi_projet.md`) et votre journal individuel (`journal_CODE_PERMANENT.md`, un fichier par membre de l'équipe)
+    - Vous travaillez récit par récit (et non pas couche pas couche);
+    - Chaque _commit_ doit référencer le récit utilisateur auquel il contribue;
+    - Vous tenez à jour le suivi du projet (`suivi_projet.md`) et votre journal individuel (`journal_CODE_PERMANENT.md`, un fichier par membre de l'équipe)
 
 
 ### Livraison du travail (Github classroom)
 
 1. Acceptez le travail [Projet de session](https://classroom.github.com/g/BfPOer2u) sur Github classroom.
-  - si votre équipe n'existe pas, créez là.
-  - si votre équipe existe déjà, rejoignez là
-  - Attention, c'est vraiment galère de faire des modifications dans github si vous vous trompez d'équipe à ce stade.
+    - si votre équipe n'existe pas, créez là.
+    - si votre équipe existe déjà, rejoignez là
+    - Attention, c'est vraiment galère de faire des modifications dans github si vous vous trompez d'équipe à ce stade.
 2. Déposez une étiquette `L2` sur le _commit_ correspondant à votre remise pour la fin de cette séquence
-  - `git tag L2`
-  - `git push --tags`
+    - `git tag L2`
+    - `git push --tags`
 3. Assurez vous de la présence de l'étiquette sur l'interface web de Github
 
 :rotating_light: **N'oubliez pas de pousser (`git push`) votre travail au fur et à mesure de votre avancée pour ne pas rater votre livraison**
