@@ -1,53 +1,94 @@
-# Séquence 2 : Dévelopement Mobile
-
-:x: :x: :x: :x: **Cette sequence est encore un brouillon et ne correspond pas au travail qui sera demandé dans le cadre du cours INF600G donné à la session d'été 2020** :x: :x: :x: :x:
+# Séquence 2 : Produit Miinimal & Viable (MVP)
 
 
 ## Objectifs
 
   1. Découvrir le langage Kotlin pour développer une application mobile
   2. Déployer un service consommé par l'application mobile
-  3. Mettre en place un protocole d'évaluation utilisateur
   4. Suivre et surveiller le déroulement de son projet
 
 ## Leçon introductive
 
-:x: **TODO** ajouter intégration _slideshare_ des diapos (ou lien PDF) de la leçon introductive pour la séquence. :x:
+:x: **TODO** Ajouter les vidéos et les liens vers les diapositives :x:
+
+1. Rétrospective sur la séquence #1
+2. Architecture client - serveur
+3. Exposition de ressources
+5. Introduction au développement Android
+
+## Outils nécessaires
+
+  - Maven (version 3+)
+  - Java (Version 11 recommandée, 8 minimum)
+  - [Android studio](https://developer.android.com/studio/)
+  - Pour le développement Java, [IntelliJ](https://www.jetbrains.com/fr-fr/idea/download/) est recommandé
+
+## Ressources disponibles
+
+- Documentation [Eclipse Jersey](https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/index.html)
+- [Android Kotlin fundamental course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
+  - Regardez principalement les tutoriels 1, 2, 3, 5, 7 et 8.
+- Cours Android à Université Côte d'Azur (2017)
+  - [Introduction à Android](./seq2/uca_android_1.pdf)
+  - [Layout](./seq2/uca_android_2.pdf)
+  - [Material design et appel à des services](./seq2/uca_android_3.pdf)
+- Bibliothèque Android [OkHttp](https://github.com/square/okhttp)
+- Guide utilisateur [Gson](https://github.com/google/gson/blob/master/UserGuide.md)
+
+
 
 ## Travail à réaliser pour la séquence (`L2`)
 
-En acceptant le travail d'équipe sur github classroom (voir ci-dessous), vous obtenez un squelette d'application fonctionelle contenant :
+Durant cette séquence, vous devez développer le produit minimal viable correspondant au produit décrit à la séquence 1. Ce produit correspond au travail de 4 (ou 3) personnes pour une durée de 4 semaines, en tenant compte de votre apprentissage préalable de la technologie Android (une équipe de débutants en Android arrivera moins loin qu'une équipe possédant de l'expertise).
 
-  1. une partie avant en Android;
-  2. une partie arrière en NodeJS;
-  3. Un fichier `README.md` indiquant comment lancer les deux parties.
+Minimalement (c.à.d., si vous êtes des débutants en Android), votre MVP doit permettre de réaliser les actions suivantes :
 
-La seule fonctionalité présente dans l'application est la selection de l'utilisateur qui va démarrer le quizz.
+1. Différentier un _aidant_ d'un _résident_;
+2. Pour un _résident_, répondre à un quizz textuel d'au moins deux questions;
+3. Pour un _aidant_, de voir les résultats (réponses justes/fausses) des _résidents_ ayant joués.
 
-Votre travail pour cette séquence est :
-
-  1. d'ajouter au squelette d'application fourni les fonctionalités du produit minimal viable (MVP) identifié pendant la leçon introductive et rappellé ci-dessous;
-  2. de compléter le gabarit fourni dans le fichier `evaluation.md` pour y décrire le protocole d'évaluation qu'il faudrait mettre en place pour évaluer le MVP avec de véritables sujets;
-  3. de compléter le gabarit fourni dans le fichier `suivi.md` pour y inclure votre backlog, le journal de votre développement, des métriques de suivi d'équipe, ...
+Si vous êtes à l'aise avec la technologie Android, vous pouvez enrichir ce produit en travaillant prioritairement sur l'adaptation des quizz (problèmes de vues par exemple).
 
 
-### Quizz: Produit minimal viable
+### Contraintes non-fonctionelles
 
-:x: TODO : décrire le MVP sur la base des travaux des étudiants pour `L1`
+1. Pour la partie arrière (serveur)
+  - Les données sont stockée uniquement en mémoire (pas de base de données);
+  - Il existe une séparation claire entre les trois couches de l'application (exposition en service, logique d'affaire, stockage des données);
+  - pour lancer le serveur : `mvn clean package jetty:run-war`.
+2. Pour l'application mobile (client)
+  - Les données sont obtenues et enregistrées dans la partie arrière uniquement;
+  - L'application est lançable depuis Android studio sur un émulateur de tablette
+3. Pour le développement du projet:
+  - Vous travaillez récit par récit (et non pas couche pas couche);
+  - Chaque _commit_ doit référencer le récit utilisateur auquel il contribue;
+  - Vous tenez à jour le suivi du projet (`suivi_projet.md`) et votre journal individuel (`journal_CODE_PERMANENT.md`, un fichier par membre de l'équipe)
+
 
 ### Livraison du travail (Github classroom)
 
-  1. Acceptez le travail sur Github classroom
-  2. Déposez une étiquette `L2` sur le _commit_ correspondant à votre remise pour la fin de cette séquence
-    - `git tag L2`
-    - `git push --tags`
-  3. Assurez vous de la présence de l'étiquette sur l'interface web de Github
+1. Acceptez le travail [Projet de session](https://classroom.github.com/g/BfPOer2u) sur Github classroom.
+  - si votre équipe n'existe pas, créez là.
+  - si votre équipe existe déjà, rejoignez là
+  - Attention, c'est vraiment galère de faire des modifications dans github si vous vous trompez d'équipe à ce stade.
+2. Déposez une étiquette `L2` sur le _commit_ correspondant à votre remise pour la fin de cette séquence
+  - `git tag L2`
+  - `git push --tags`
+3. Assurez vous de la présence de l'étiquette sur l'interface web de Github
 
 :rotating_light: **N'oubliez pas de pousser (`git push`) votre travail au fur et à mesure de votre avancée pour ne pas rater votre livraison**
 
 ### Grille d'évaluation pour `L2`
 
-:x: TODO : décrire la grille d'évaluation
+**La note individuelle pourra être modulée par l'équipe enseignante en fonction de votre implication dans la réalisation de l'équipe.**
 
 | Thème         | Critère                      | Poids |
 | :---:         | :---                         | :---: |
+| **Général**   | Respect des gabarits         | 5%    |
+|               | Traçabilité commit-récits    | 15%   |
+|               | Couverture fonctionelle du MVP | 15%   |
+| **Application**  | Qualité du code source    | 15%   |
+|               | Scénarios & adaptation à l'usage | 20%  
+| **Serveur**   | Qualité du code source     | 15%   |
+|               | bonnes pratiques REST      | 15%   |
+| :rotating_light: **MALUS**     | _non respect des consignes de livraison_ | **-100%** |
