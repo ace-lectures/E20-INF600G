@@ -10,10 +10,14 @@
 
 :x: **TODO** Ajouter les vidéos et les liens vers les diapositives :x:
 
-1. Rétrospective sur la séquence #1
-2. Architecture client - serveur
-3. Exposition de ressources
-5. Introduction au développement Android
+- Diapositives
+    1. [Rétrospective sur la séquence #1](./seq2/Seq2_Part1.pdf)
+    2. [Architecture client - serveur](./seq2/Seq2_Part2.pdf)
+    3. [Exposition de ressources](./seq2/Seq2_Part3.pdf)
+    4. [Introduction au développement Android](./seq2/Seq2_Part4.pdf)
+    5. [Travail à réaliser pour L2](./seq2/Seq2_Part5.pdf)
+- Vidéos
+    - [Playlist INF600G - E20 - S2](https://www.youtube.com/playlist?list=PLpni-AW3kOU6cqO9rA57oKkO5mQayT1kR)
 
 ## Outils nécessaires
 
