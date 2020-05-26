@@ -11,7 +11,6 @@
 
 ## Leçon introductive
 
-:x: **TODO** Ajouter les vidéos et les liens vers les diapositives :x:
 
 - Diapositives
     1. [Rétrospective sur la séquence #1](./seq2/Seq2_Part1.pdf)
