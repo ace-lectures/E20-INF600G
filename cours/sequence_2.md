@@ -1,5 +1,8 @@
 # Séquence 2 : Application Mobile Minimale & Viable (MVP)
 
+* Feuille d'inscription pour les rendez vous de suivi : 
+    - [https://docs.google.com/spreadsheets/d/1fbgmtB2ujJCZhAnURif73yWEBcU0rx7rAV2k5WqPmB8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1fbgmtB2ujJCZhAnURif73yWEBcU0rx7rAV2k5WqPmB8/edit?usp=sharing) 
+
 ## Objectifs
 
   1. Découvrir le langage Kotlin pour développer une application mobile
