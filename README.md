@@ -37,7 +37,6 @@ En parallele du travail réalisé techniquement, une partie de l'évaluation ind
 
 **Les dates de remise sont des dates "au plus tard", et s'entendent sur le fuseau horaire de Montréal, à 23:50 le jour de la date de remise. Tout rendu hors délai recevra la note de zéro (0), mais rien en vous empêche de livrer avant l'échéance. Les règles concernant le plagiat seront appliquées sans aucune tolérance.**
 
-:rotating_light: **TODO** Transformer les numéros de semaines en vraies dates. Ici le numéro de semaine correspond au dimanche de la semaine en question.
 
 | Id    | Date(s) | Travail à rendre                  |  Poids | Type       | Lien |
 | :---: | :---:   | :---                              | :---:  | :---:      | :--: |
