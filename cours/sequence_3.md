@@ -60,7 +60,7 @@ Durant cette séquence, vous devez continuyer le développement de votre applica
 - Semaine 2 :
     - mardi : première démo à votre auxiliaire
     - jeudi : avancée sur le projet
-- Semaine 2 :
+- Semaine 3 :
     - mardi : Collecte de rétroaction avec votre auxiliaire
     - jeudi : Répétition d'une version minimale de la démo avec l'auxiliaire
 - Semaine 4 :
