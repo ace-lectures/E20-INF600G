@@ -13,11 +13,11 @@
 ## Leçon introductive
 
 - Diapositives
-    1. Rétrospective de la séquence `L2`
-    2. Detection de contexte
-    3. Application au téléphone intelligent
-    4. Lieux de vie intelligents, l'exemple d'un _SmartCampus_
-    5. Travail à réaliser pour `L3`
+    1. [Rétrospective de la deuxième séquence](./seq3/Seq3_Part1.pdf)
+    2. [Detection de contexte](./seq3/Seq3_Part2.pdf)
+    3. [Application au téléphone intelligent](./seq3/Seq3_Part3.pdf)
+    4. [Lieux de vie intelligents](./seq3/Seq3_Part4.pdf)
+    5. [Travail à réaliser pour `L3`](./seq3/Seq3_Part5.pdf)
 - Vidéos
     - TODO
 
