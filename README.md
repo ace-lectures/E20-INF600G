@@ -44,7 +44,7 @@ En parallele du travail réalisé techniquement, une partie de l'évaluation ind
 | `L1`  | 24/05   | Récits Utilisateurs & Maquette    | 15%    | Individuel | [url](./cours/sequence_1.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l1)  |
 | `EQ`  | 24/05   | Constitution des équipes          | --     | Groupe     | [url](./travaux/decl_equipe.md)  |
 | `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | [url](./cours/sequence_2.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l2)  |
-| `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | :lock:  |
+| `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | [url](./cours/sequence_3.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l3)  |
 | `AR`  | 19/07   | Analyse critique d'article        | 20%    | Individuel | [url](./travaux/analyse_article.md)  |
 | `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | :lock:  |
 
@@ -66,7 +66,7 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 | :red_circle:   | 05       | _Suivi_                             |           |            |
 | :red_circle:   | 06       | _Suivi_                             | _Suivi_     |            |
 | :red_circle:   | :zap: **07** :zap:   | Démonstrations          | Démonstrations | `L2`       |
-| :large_blue_circle: | 08  | :lock: **Détection de contexte & IA**             | |
+| :large_blue_circle: | 08  | [**Détection de contexte & IA**](./cours/sequence_3.md)            | |
 | :large_blue_circle: | 09  |  _Suivi_                            |         |            |
 | :large_blue_circle: | 10  | _Suivi_                             | _Suivi_        |            |
 | :large_blue_circle: | :zap: **11** :zap:  | Démonstrations      | Démonstrations | `L3`, `AR` |
