@@ -38,19 +38,34 @@
 Durant cette séquence, vous devez continuyer le développement de votre application de quizz a destination des aînés en résidence. Les points a prendre en compte pour les quatre prochaines semaines sont :
 
 1. Collecte de méta-données fonctionelles:
-  - Pour chaque quizz, on dispose pour chaque résident de ses réponses justes ou fausse.
-1. Collecte de méta-données des capteurs:
-  - Pendant qu'un aîné utilise votre application, vous devez collecter les données des capteurs de la tablette pour mesurer ses tremblements.
-  - Ces données doivent être envoyée au serveur pour y être enregistré;
-  - **VOUS N'AVEZ PAS A RÉALISER LA PARTIE APPRENTISSAGE MACHINE POUR LE MOMENT**
-2. Adaptation:
-  - En fonction de l'état de santé des résidents, vous proposerez au moins deux adaptations différentes (a valider avec votre auxiliaire)
-  - Une des adaptations doit porter sur la mécanique du quizz (p.ex., ne pas afficher une mauvaise réponse)
-  - Une des adaptations doit porter sur l'affichage de votre quizz
-  - Les adaptations doivent s'enraciner dans la description de vos personas.
-3. Activation à la demande :
-  - Depuis l'interface de contrôle des soignants, il est possible d'activer ou désactiver une adaptation pour un résident donné.
-  - On enregistre le moment ou une adaptation est activée ou désactivée pour pouvoir vérifier si cela à un impact sur le taux de bonnes réponses du résident
+    - Pour chaque quizz, on dispose pour chaque résident de ses réponses justes ou fausse.
+2. Collecte de méta-données des capteurs:
+    - Pendant qu'un aîné utilise votre application, vous devez collecter les données des capteurs de la tablette pour mesurer ses tremblements.
+    - Ces données doivent être envoyée au serveur pour y être enregistré;
+    - **VOUS N'AVEZ PAS A RÉALISER LA PARTIE APPRENTISSAGE MACHINE POUR LE MOMENT**
+3. Adaptation:
+    - En fonction de l'état de santé des résidents, vous proposerez au moins deux adaptations différentes (a valider avec votre auxiliaire)
+    - Une des adaptations doit porter sur la mécanique du quizz (p.ex., ne pas afficher une mauvaise réponse)
+    - Une des adaptations doit porter sur l'affichage de votre quizz
+    - Les adaptations doivent s'enraciner dans la description de vos personas.
+4. Activation à la demande :
+    - Depuis l'interface de contrôle des soignants, il est possible d'activer ou désactiver une adaptation pour un résident donné.
+    - On enregistre le moment ou une adaptation est activée ou désactivée pour pouvoir vérifier si cela à un impact sur le taux de bonnes réponses du résident
+
+### Plan de match type
+
+- Semaine 1 :
+    - mardi : leçon introductive
+    - jeudi : _backlog_ défini pour la séquence, attribution des responsabilités
+- Semaine 2 :
+    - mardi : première démo à votre auxiliaire
+    - jeudi : avancée sur le projet
+- Semaine 2 :
+    - mardi : Collecte de rétroaction avec votre auxiliaire
+    - jeudi : Répétition d'une version minimale de la démo avec l'auxiliaire
+- Semaine 4 :
+    - mardi ou jeudi : démonstration évaluée
+    - Finalisation de la livraison
 
 ### Contraintes non-fonctionelles
 
