@@ -19,7 +19,7 @@
     4. [Lieux de vie intelligents](./seq3/Seq3_Part4.pdf)
     5. [Travail à réaliser pour `L3`](./seq3/Seq3_Part5.pdf)
 - Vidéos
-    - TODO
+    - [https://www.youtube.com/playlist?list=PLpni-AW3kOU7R-k4wOGcbc6-DNDQnviWV](https://www.youtube.com/playlist?list=PLpni-AW3kOU7R-k4wOGcbc6-DNDQnviWV)
 
 ## Outils nécessaires
 
