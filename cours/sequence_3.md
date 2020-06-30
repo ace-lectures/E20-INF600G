@@ -80,6 +80,17 @@ Durant cette séquence, vous devez continuyer le développement de votre applica
 
 Si certains d'entre vous sont plus confortable a faire deux applications séparées (une pour les résidents, une pour les soignants)
 
+### Consignes de livraisons : 
+
+0. Préalable : 
+  - L'étiquette de livraison `L3` est présente
+1. Partie arrière :
+  - Le code du serveur est dans le repertoire `serveur`
+  - Il se lance avec un `mvn clean package jetty:run` (ou un `docker-compose up`)
+2. Partie mobile :
+  - Le projet Android Studio est dans le repertoire `app`
+  - On peut le lancer sur un émulateur Android avec la version R de l'API et une résolution de 1200x1920
+
 ### Livraison du travail (Github classroom)
 
 1. Déposez une étiquette `L3` sur le _commit_ correspondant à votre remise pour la fin de cette séquence
