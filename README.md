@@ -45,7 +45,7 @@ En parallele du travail réalisé techniquement, une partie de l'évaluation ind
 | `L2`  | 21/06   | Produit minimal et viable         | 15%    | Groupe     | [url](./cours/sequence_2.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l2)  |
 | `L3`  | 19/07   | Collecte de métadonnées pour l'IA | 20%    | Groupe     | [url](./cours/sequence_3.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l3)  |
 | `AR`  | 19/07   | Analyse critique d'article        | 20%    | Individuel | [url](./travaux/analyse_article.md)  |
-| `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | :lock:  |
+| `L4`  | 16/08   | Produit final                     | 30%    | Groupe     | [url](./cours/sequence_4.md#travail-%C3%A0-r%C3%A9aliser-pour-la-s%C3%A9quence-l4)  |
 
   - Le travail individuel correspond à 35% de la note finale
     - en cas de doute sur la paternité du travail livré par un étudiant, le professeur pourra organiser un entretien oral durant la semaine 13.
@@ -69,7 +69,7 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 | :large_blue_circle: | 09  |  _Suivi_                            |         |            |
 | :large_blue_circle: | 10  | _Suivi_                             | _Suivi_        |            |
 | :large_blue_circle: | :zap: **11** :zap:  | Démonstrations      | Démonstrations | `L3`, `AR` |
-| :o:            | 12       | :lock: **Approfondissement**               |         | |
+| :o:            | 12       | [**Approfondissement**](./cours/sequence_3.md)               |         | |
 | :o:            | 13       | _Suivi_                             |         |            |
 | :o:            | 14       | _Suivi_                             | _Suivi_        |            |
 | :o:            | :zap: **15** :zap:  |  Démonstrations          | Démonstrations | `L4`       |
