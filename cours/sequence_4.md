@@ -20,7 +20,7 @@
   4. [Axes d'extension disponibles](./seq4/Seq4_Part4.pdf)
   5. [Travail a réaliser pour `L4`](./seq4/Seq4_Part5.pdf)
 - Vidéo:
-  - TODO
+  - [Playlist séquence 4](https://www.youtube.com/playlist?list=PLpni-AW3kOU7lUKrY5sgECnt4N1hAfrpx)
 - Ressource supplémentaire :
   - [Ergonomie et Modélisation des utilisateurs des IHMs](./seq4/uca_ludotic.pdf) par Teresa Colombi (LudoTic)
 
