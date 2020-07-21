@@ -69,7 +69,7 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 | :large_blue_circle: | 09  |  _Suivi_                            |         |            |
 | :large_blue_circle: | 10  | _Suivi_                             | _Suivi_        |            |
 | :large_blue_circle: | :zap: **11** :zap:  | Démonstrations      | Démonstrations | `L3`, `AR` |
-| :o:            | 12       | [**Approfondissement**](./cours/sequence_3.md)               |         | |
+| :o:            | 12       | [**Approfondissement**](./cours/sequence_4.md)               |         | |
 | :o:            | 13       | _Suivi_                             |         |            |
 | :o:            | 14       | _Suivi_                             | _Suivi_        |            |
 | :o:            | :zap: **15** :zap:  |  Démonstrations          | Démonstrations | `L4`       |

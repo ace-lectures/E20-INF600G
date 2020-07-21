@@ -15,12 +15,14 @@
 
 - Diapositives:
   1. Présentation d'AGE-WELL par Samantha Sandassie
-  2. Rétroaction sur la séquence précédente
-  3. Évaluation Utilisateurs
-  4. Axes d'extension disponibles
-  5. Travail a réaliser pour `L4`.
+  2. [Rétroaction sur la séquence précédente](./seq4/Seq4_Part2.pdf)
+  3. [Évaluation Utilisateurs](./seq4/Seq4_Part3.pdf)
+  4. [Axes d'extension disponibles](./seq4/Seq4_Part4.pdf)
+  5. [Travail a réaliser pour `L4`](./seq4/Seq4_Part5.pdf)
 - Vidéo:
   - TODO
+- Ressource supplémentaire :
+  - [Ergonomie et Modélisation des utilisateurs des IHMs](./seq4/uca_ludotic.pdf) par Teresa Colombi (LudoTic)
 
 ## Travail à réaliser pour la séquence (`L4`)
 
