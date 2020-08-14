@@ -181,17 +181,19 @@ Si vous êtes satisfait de votre résultat final, nous vous encourageons forteme
 #### Consignes de livraisons :
 
 0. Préalable :
-  - L'étiquette de livraison `L4` est présente
+    - L'étiquette de livraison `L4` est présente
 1. Partie arrière :
-  - Le code du serveur est dans le repertoire `serveur`
-  - Il se lance avec un `mvn clean package jetty:run` (ou un `docker-compose up`)
+    - Le code du serveur est dans le repertoire `serveur`
+    - Il se lance avec un `mvn clean package jetty:run` (ou un `docker-compose up`)
 2. Partie mobile :
-  - Le projet Android Studio est dans le repertoire `app`
-  - On peut le lancer sur un émulateur Android avec la version R de l'API et une résolution de 1200x1920
+    - Le projet Android Studio est dans le repertoire `app`
+    - On peut le lancer sur un émulateur Android avec la version R de l'API et une résolution de 1200x1920
 3. Vidéo : On trouve à la racine de votre dépot
-  - un fichier `video.mp4` de résolution 1080p et d'une taille inférieure à 100MB. Cette vidéo de 3 minutes (180 secondes) maximum est une démonstration de votre produit qui aura vocation a être publiée sur YouTube à la fin de la session;
-  - un fichier `video_descr.txt` qui contient le nom des auteurs, une courte description de votre produit, et la liste de crédits musicaux si vous en utilisez. Privilégiez des musiques libres ou des extraits courts (15-30s) pour éviter les problèmes de droit d'auteurs qui pourrait bloquer la diffusion de votre travail.
+    - un fichier `video.mp4` de résolution 1080p et d'une taille inférieure à 100MB. Cette vidéo de 3 minutes (180 secondes) maximum est une démonstration de votre produit qui aura vocation a être publiée sur YouTube à la fin de la session;
+    - un fichier `video_descr.txt` qui contient le nom des auteurs, une courte description de votre produit, et la liste de crédits musicaux si vous en utilisez. Privilégiez des musiques libres ou des extraits courts (15-30s) pour éviter les problèmes de droit d'auteurs qui pourrait bloquer la diffusion de votre travail.
 4. Extension: Si votre extension necessite des fichiers supplémentaire (voir description de l'extension), ils sont présent à la racine du dépôt.
+
+**Si votre vidéo fait plus de 100MB, ce qui est possible selon le codec vidéo que vous utilisez, ne déposez pas de vidéo dans votre dépot git mais utilisez un système comme WeTransfer pour _uploader_ la vidéo et donnez l'URL de la vidéo dans votre fichier de description.**
 
 
 ### Grille d'évaluation pour `L4`
